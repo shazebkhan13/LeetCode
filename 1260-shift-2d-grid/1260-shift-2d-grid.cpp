@@ -3,13 +3,13 @@ public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& arr, int k) {
         int m=arr.size(),n=arr[0].size();
         k%=m*n;
-        while(k--){
-            int temp=arr[m-1][n-1];
-            for(int i=m*n-1;i>0;i--){
-                arr[i/n][i%n]=arr[(i-1)/n][(i-1)%n];
+        vector<vector<int>> ans(m,vector<int>(n));
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                int ind=(i*n+j+k)%(m*n);
+                ans[ind/n][ind%n]=arr[i][j];
             }
-            arr[0][0]=temp;
         }
-        return arr;
+        return ans;
     }
 };
