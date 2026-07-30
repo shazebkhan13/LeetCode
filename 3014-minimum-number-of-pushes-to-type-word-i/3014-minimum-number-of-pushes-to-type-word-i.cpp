@@ -1,26 +1,15 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        vector<bool> mp(26,false);
-        for(auto i:word) mp[i-'a']=true;
-        int cnt=0;
-        for(auto i:mp) cnt+=i;
-        int n,d=cnt/8;
-        switch(d){
-            case 0:
-            n=0;
-            break;
-            case 1:
-            n=8;
-            break;
-            case 2:
-            n=24;
-            break;
-            case 3:
-            n=48;
-            break;
+        int cnt=0,ans=0,t=1;
+        for(auto i:word){
+            ans+=t;
+            cnt++;
+            if(cnt==8){
+                cnt=0;
+                t++;
+            }
         }
-        cout<<n;
-        return n+(cnt%8)*(d+1);
+        return ans;
     }
 };
