@@ -17,12 +17,12 @@ public:
     }
     
     string back(int steps) {
-        while(cur->prev && steps--) cur=cur->prev;
+        while(steps--) if(cur->prev) cur=cur->prev;
         return cur->val;
     }
     
     string forward(int steps) {
-        while(cur->next && steps--) cur=cur->next;
+        while(steps--) if(cur->next) cur=cur->next;
         return cur->val;
     }
 };
