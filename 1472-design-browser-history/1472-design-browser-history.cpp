@@ -4,12 +4,11 @@ public:
         public:
         string val;
         ListNode *next,*prev;
-        ListNode():val(""),next(NULL),prev(NULL){};
         ListNode(string x):val(x),next(NULL),prev(NULL){};
     };
     ListNode *cur;
     BrowserHistory(string homepage) {
-        cur=new ListNode(homepage);
+       cur=new ListNode(homepage);
     }
     void visit(string url) {
         cur->next=new ListNode(url);
@@ -18,12 +17,12 @@ public:
     }
     
     string back(int steps) {
-        while(steps--) if(cur->prev) cur=cur->prev;
+        while(cur->prev && steps--) cur=cur->prev;
         return cur->val;
     }
     
     string forward(int steps) {
-        while(steps--) if(cur->next) cur=cur->next;
+        while(cur->next && steps--) cur=cur->next;
         return cur->val;
     }
 };
