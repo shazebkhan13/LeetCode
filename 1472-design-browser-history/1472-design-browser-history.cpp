@@ -6,9 +6,9 @@ public:
         ListNode *next,*prev;
         ListNode(string x):val(x),next(NULL),prev(NULL){};
     };
-    ListNode *cur;
+    ListNode *head,*cur;
     BrowserHistory(string homepage) {
-       cur=new ListNode(homepage);
+       head=cur=new ListNode(homepage);
     }
     void visit(string url) {
         cur->next=new ListNode(url);
