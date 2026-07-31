@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shazebkhan13/LeetCode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shazebkhan13/LeetCode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
