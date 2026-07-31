@@ -11,22 +11,25 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        vector<int> smaller,greater;
-        ListNode *cur=head;
+        ListNode *ans=new ListNode(),*cur=head,*temp=ans;
         while(cur){
-            if(cur->val<x) smaller.push_back(cur->val);
-            else greater.push_back(cur->val);
+            if(cur->val<x){
+                temp->next=new ListNode(cur->val);
+                temp=temp->next;
+            }
             cur=cur->next;
         }
         cur=head;
-        for(auto i:smaller){
-            cur->val=i;
+        while(cur){
+            if(cur->val>=x){
+                temp->next=new ListNode(cur->val);
+                temp=temp->next;
+            }
             cur=cur->next;
         }
-        for(auto i:greater){
-            cur->val=i;
-            cur=cur->next;
-        }
-        return head;
+        cur=ans;
+        ans=ans->next;
+        delete cur;
+        return ans;
     }
 };
