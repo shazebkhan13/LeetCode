@@ -7,24 +7,24 @@ public:
         ListNode():val(""),next(NULL),prev(NULL){};
         ListNode(string x):val(x),next(NULL),prev(NULL){};
     };
-    ListNode *head,*tail;
+    ListNode *cur;
     BrowserHistory(string homepage) {
-        head=tail=new ListNode(homepage);
+        cur=new ListNode(homepage);
     }
     void visit(string url) {
-        tail->next=new ListNode(url);
-        tail->next->prev=tail;
-        tail=tail->next;
+        cur->next=new ListNode(url);
+        cur->next->prev=cur;
+        cur=cur->next;
     }
     
     string back(int steps) {
-        while(steps--) if(tail->prev) tail=tail->prev;
-        return tail->val;
+        while(steps--) if(cur->prev) cur=cur->prev;
+        return cur->val;
     }
     
     string forward(int steps) {
-        while(steps--) if(tail->next) tail=tail->next;
-        return tail->val;
+        while(steps--) if(cur->next) cur=cur->next;
+        return cur->val;
     }
 };
 
