@@ -19,34 +19,18 @@ public:
             size++;
             cur=cur->next;
         }
-        int d=size/k,r=size%k;
+        int d=size/k,r=size%k,i=0;
         cur=head;
         ListNode *pre=NULL;
-        int t=0,i=0;
-        if(d==0){
-            while(cur){
-                arr[i]=cur;
-                cur=cur->next;
-                arr[i]->next=NULL;
-                i++;
-            }
-            return arr;
-        }
         while(cur){
-            if(t==0){
-                if(pre) pre->next=NULL;
-                arr[i++]=cur;
-            }
-           t++;
-           if(t==d){
-            if(r){
+            arr[i++]=cur;
+            int x=d;
+            if(r) x++,r--;
+            while(x--){
+                pre=cur;
                 cur=cur->next;
-                r--;
             }
-            t=0;
-           }
-           pre=cur;
-          if(cur) cur=cur->next;
+            pre->next=NULL;
         }
         return arr;
     }
