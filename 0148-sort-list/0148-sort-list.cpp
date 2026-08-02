@@ -44,6 +44,7 @@ public:
     }
     ListNode* sortList(ListNode* head) {
         if(!head || !head->next) return head;
-        return mergeSort(head);
+        head=mergeSort(head);
+        return head;
     }
 };
