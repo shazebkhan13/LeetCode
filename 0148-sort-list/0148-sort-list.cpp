@@ -29,22 +29,18 @@ public:
         delete cur;
         return newHead;
     }
-    ListNode* mergeSort(ListNode *start){
-        if(!start || !start->next) return start;
-        ListNode *temp=NULL,*slow=start,*fast=start;
+    ListNode* sortList(ListNode* head) {
+        if(!head || !head->next) return head;
+        ListNode *temp=NULL,*slow=head,*fast=head;
         while(fast && fast->next){
             temp=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
         temp->next=NULL;
-        ListNode *l1=mergeSort(start);
-        ListNode *l2=mergeSort(slow);
-        return merge(l1,l2);
-    }
-    ListNode* sortList(ListNode* head) {
-        if(!head || !head->next) return head;
-        head=mergeSort(head);
+        ListNode *l1=sortList(head);
+        ListNode *l2=sortList(slow);
+        head=merge(l1,l2);
         return head;
     }
 };
