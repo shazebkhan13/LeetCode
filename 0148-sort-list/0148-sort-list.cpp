@@ -10,48 +10,40 @@
  */
 class Solution {
 public:
-    void merge(ListNode *start,ListNode *slow,ListNode *end,vector<int>& temp){
-        ListNode *first=start,*second=slow;
-        while(first!=slow && second!=end){
+    ListNode* merge(ListNode *first,ListNode *second){
+        ListNode *newHead=new ListNode(),*cur=newHead;
+        while(first && second){
             if(first->val<second->val){
-                temp.push_back(first->val);
+                cur->next=first;
                 first=first->next;
             }
             else{
-                temp.push_back(second->val);
+                cur->next=second;
                 second=second->next;
             }
-        }
-        while(first!=slow){
-            temp.push_back(first->val);
-            first=first->next;
-        }
-        while(second!=end){
-            temp.push_back(second->val);
-            second=second->next;
-        }
-        ListNode *cur=start;
-        for(auto i:temp){
-            cur->val=i;
             cur=cur->next;
         }
-        temp.clear();
+        cur->next=first?first:second;
+        cur=newHead;
+        newHead=newHead->next;
+        delete cur;
+        return newHead;
     }
-    void mergeSort(ListNode *start,ListNode *end,vector<int>& temp){
-        if(start==end || start->next==end) return;
-        ListNode *slow=start,*fast=start;
-        while(fast!=end && fast->next!=end){
+    ListNode* mergeSort(ListNode *start){
+        if(!start || !start->next) return start;
+        ListNode *temp=NULL,*slow=start,*fast=start;
+        while(fast && fast->next){
+            temp=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
-        mergeSort(start,slow,temp);
-        mergeSort(slow,end,temp);
-        merge(start,slow,end,temp);
+        temp->next=NULL;
+        ListNode *l1=mergeSort(start);
+        ListNode *l2=mergeSort(slow);
+        return merge(l1,l2);
     }
     ListNode* sortList(ListNode* head) {
         if(!head || !head->next) return head;
-        vector<int> temp;
-        mergeSort(head,NULL,temp);
-        return head;
+        return mergeSort(head);
     }
 };
