@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shazebkhan13/LeetCode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shazebkhan13/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -179,8 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
