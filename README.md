@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/shazebkhan13/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/shazebkhan13/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shazebkhan13/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/shazebkhan13/LeetCode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/shazebkhan13/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/shazebkhan13/LeetCode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
