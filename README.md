@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shazebkhan13/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shazebkhan13/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shazebkhan13/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shazebkhan13/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
