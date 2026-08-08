@@ -1,42 +1,25 @@
-class Node{
-public:
-    int val,mini;
-    Node *next;
-    Node(int x){
-        val=x;
-        mini=x;
-        next=NULL;
-    }
-};
 class MinStack {
 public:
-    Node *t;
+    stack<pair<int,int>> st;
     MinStack() {
-        t=NULL;
+        
     }
     
     void push(int value) {
-        if(!t) t=new Node(value);
-        else{
-            Node *temp=new Node(value);
-            temp->mini=min(t->mini,value);
-            temp->next=t;
-            t=temp;
-        }
+        if(st.empty()) st.push({value,value});
+        else st.push({value,min(st.top().second,value)});
     }
     
     void pop() {
-        Node *temp=t;
-        t=t->next;
-        delete temp;
+        st.pop();
     }
     
     int top() {
-        return t->val;
+        return st.top().first;
     }
     
     int getMin() {
-        return t->mini;
+        return st.top().second;
     }
 };
 
