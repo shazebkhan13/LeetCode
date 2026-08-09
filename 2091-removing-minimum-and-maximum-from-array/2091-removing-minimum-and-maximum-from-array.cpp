@@ -14,6 +14,6 @@ public:
             }
         }
         if(first>second) swap(first,second);
-        return min(min(second+1,n-first),first+1+n-second);
+        return min({second+1,n-first,first+1+n-second});
     }
 };
