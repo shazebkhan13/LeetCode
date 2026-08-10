@@ -5,10 +5,11 @@ public:
         queue<int>q;
         for(int i=0;i<n;i++) q.push(i);
         while(arr[k]){
-            arr[q.front()]--;
-            ans++;
-            if(arr[q.front()]) q.push(q.front());
+            int f=q.front();
+            arr[f]--;
             q.pop();
+            if(arr[f]) q.push(f);
+            ans++;
         }
         return ans;
     }
