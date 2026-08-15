@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shazebkhan13/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shazebkhan13/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shazebkhan13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shazebkhan13/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shazebkhan13/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shazebkhan13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -285,4 +289,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
