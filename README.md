@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shazebkhan13/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shazebkhan13/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/shazebkhan13/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shazebkhan13/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
