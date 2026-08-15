@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/shazebkhan13/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shazebkhan13/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shazebkhan13/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
