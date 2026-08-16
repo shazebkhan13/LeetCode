@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/shazebkhan13/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shazebkhan13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
