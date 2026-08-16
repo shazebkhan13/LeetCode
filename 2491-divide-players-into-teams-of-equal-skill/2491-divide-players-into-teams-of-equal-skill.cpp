@@ -1,20 +1,14 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& arr) {
-        int n=arr.size();
-        long long total=0,ans=0;
-        for(auto i:arr) total+=i;
-        int sum=total/(n/2);
-        unordered_map<int,int> mp;
-        for(auto i:arr){
-            int t=sum-i;
-            if(mp[t]){
-                ans+=1LL*i*t;
-                mp[t]--;
-            }
-            else mp[i]++;
+        sort(arr.begin(),arr.end());
+        int n=arr.size(),sum=arr[0]+arr[n-1],start=0,end=n-1;
+        long long ans=0;
+        while(start<end){
+            if(arr[start]+arr[end]==sum) ans+=1LL*arr[start]*arr[end];
+            else return -1;
+            start++,end--;
         }
-        for(auto i:mp) if(i.second) return -1;
         return ans;
     }
 };
