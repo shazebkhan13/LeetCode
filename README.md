@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shazebkhan13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Primality Test
 |  |
 | ------- |
