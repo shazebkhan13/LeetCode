@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shazebkhan13/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shazebkhan13/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
@@ -343,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shazebkhan13/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
