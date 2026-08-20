@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkhan13/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shazebkhan13/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkhan13/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shazebkhan13/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shazebkhan13/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shazebkhan13/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
