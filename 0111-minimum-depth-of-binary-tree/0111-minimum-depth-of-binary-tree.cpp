@@ -11,22 +11,15 @@
  */
 class Solution {
 public:
+    int fun(TreeNode* root){
+        if(!root) return INT_MAX;
+        if(!root->left&&!root->right) return 1;
+        int l=fun(root->left);
+        int r=fun(root->right);
+        return 1+min(l,r);
+    }
     int minDepth(TreeNode* root) {
-        int ans=INT_MAX,level=0;
-        if(!root) return level;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            level++;
-            int s=q.size();
-            for(int i=0;i<s;i++){
-                TreeNode *r=q.front();
-                q.pop();
-                if(!r->left&&!r->right) ans=min(ans,level);
-                if(r->left) q.push(r->left);
-                if(r->right) q.push(r->right);
-            }
-        }
-        return ans;
+        if(!root) return 0;
+        return fun(root);
     }
 };
