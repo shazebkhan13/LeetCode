@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shazebkhan13/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkhan13/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shazebkhan13/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/shazebkhan13/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shazebkhan13/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shazebkhan13/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shazebkhan13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
