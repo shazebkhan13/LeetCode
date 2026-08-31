@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shazebkhan13/LeetCode/tree/master/1291-sequential-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shazebkhan13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shazebkhan13/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shazebkhan13/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shazebkhan13/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/shazebkhan13/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shazebkhan13/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shazebkhan13/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shazebkhan13/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
