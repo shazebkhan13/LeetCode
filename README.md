@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shazebkhan13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/shazebkhan13/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shazebkhan13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shazebkhan13/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shazebkhan13/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shazebkhan13/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shazebkhan13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shazebkhan13/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
