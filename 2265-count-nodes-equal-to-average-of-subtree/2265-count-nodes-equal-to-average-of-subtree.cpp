@@ -11,15 +11,16 @@
  */
 class Solution {
 public:
-    vector<int> fun(TreeNode* r,int& ans){
+    int ans=0;
+    pair<int,int> helper(TreeNode* r,int& ans){
         if(!r) return {0,0};
-        vector<int> lef=fun(r->left,ans),rig=fun(r->right,ans);
-        if((lef[0]+r->val+rig[0])/(lef[1]+1+rig[1])==r->val) ans++;
-        return {lef[0]+r->val+rig[0],lef[1]+1+rig[1]};
+        pair<int,int> lef=helper(r->left,ans),rig=helper(r->right,ans);
+        int sum=lef.first+r->val+rig.first,cnt=lef.second+1+rig.second;
+        if(sum/cnt==r->val) ans++;
+        return {sum,cnt};
     }
     int averageOfSubtree(TreeNode* root) {
-        int ans=0;
-        fun(root,ans);
+        helper(root,ans);
         return ans;
     }
 };
