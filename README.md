@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shazebkhan13/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/shazebkhan13/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shazebkhan13/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shazebkhan13/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shazebkhan13/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shazebkhan13/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/shazebkhan13/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sliding Window
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/shazebkhan13/LeetCode/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shazebkhan13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shazebkhan13/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/shazebkhan13/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shazebkhan13/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
