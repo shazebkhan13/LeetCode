@@ -1,20 +1,14 @@
 class Solution {
 public:
-    bool checkEmpty(string& s,int i,unordered_map<char,int>& mp){
-        for(int j=0;j<=i;j++){
-            if(mp[s[j]]) return false;
-        }
-        return true;
-    }
     vector<int> partitionLabels(string s) {
+        int n=s.size(),start=0,end=0;
         unordered_map<char,int> mp;
-        for(auto i:s) mp[i]++;
-        int start=0;
+        for(int i=0;i<n;i++) mp[s[i]]=i;
         vector<int> ans;
-        for(int i=0;i<s.size();i++){
-            mp[s[i]]--;
-            if(checkEmpty(s,i,mp)){
-                ans.push_back(i-start+1);
+        for(int i=0;i<n;i++){
+            end=max(end,mp[s[i]]);
+            if(end==i){
+                ans.push_back(end-start+1);
                 start=i+1;
             }
         }
