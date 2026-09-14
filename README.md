@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/shazebkhan13/LeetCode/tree/master/0223-rectangle-area) |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -487,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/shazebkhan13/LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
