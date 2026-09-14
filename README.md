@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shazebkhan13/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkhan13/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -483,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shazebkhan13/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
