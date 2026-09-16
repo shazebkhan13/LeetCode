@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shazebkhan13/LeetCode/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/shazebkhan13/LeetCode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/shazebkhan13/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shazebkhan13/LeetCode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/shazebkhan13/LeetCode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0969-pancake-sorting](https://github.com/shazebkhan13/LeetCode/tree/master/0969-pancake-sorting) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/shazebkhan13/LeetCode/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shazebkhan13/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
