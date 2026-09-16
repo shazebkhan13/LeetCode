@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shazebkhan13/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2413-smallest-even-multiple](https://github.com/shazebkhan13/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkhan13/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shazebkhan13/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/shazebkhan13/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shazebkhan13/LeetCode/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/shazebkhan13/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/shazebkhan13/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shazebkhan13/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shazebkhan13/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
