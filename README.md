@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shazebkhan13/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shazebkhan13/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkhan13/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shazebkhan13/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shazebkhan13/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
