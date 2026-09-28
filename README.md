@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shazebkhan13/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shazebkhan13/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/shazebkhan13/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shazebkhan13/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/shazebkhan13/LeetCode/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
