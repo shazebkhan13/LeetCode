@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shazebkhan13/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shazebkhan13/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/shazebkhan13/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shazebkhan13/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shazebkhan13/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shazebkhan13/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shazebkhan13/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shazebkhan13/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/shazebkhan13/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shazebkhan13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shazebkhan13/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shazebkhan13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shazebkhan13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/shazebkhan13/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3638-maximum-balanced-shipments](https://github.com/shazebkhan13/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Backtracking
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shazebkhan13/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shazebkhan13/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shazebkhan13/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
 | ------- |
