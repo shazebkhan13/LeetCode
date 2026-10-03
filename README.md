@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shazebkhan13/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/shazebkhan13/LeetCode/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shazebkhan13/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shazebkhan13/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [3638-maximum-balanced-shipments](https://github.com/shazebkhan13/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Depth-First Search
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shazebkhan13/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkhan13/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
