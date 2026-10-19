@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/shazebkhan13/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shazebkhan13/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shazebkhan13/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shazebkhan13/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shazebkhan13/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/shazebkhan13/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shazebkhan13/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/shazebkhan13/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shazebkhan13/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shazebkhan13/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shazebkhan13/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shazebkhan13/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/shazebkhan13/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkhan13/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shazebkhan13/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Primality Test
 |  |
 | ------- |
