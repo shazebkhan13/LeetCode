@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shazebkhan13/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shazebkhan13/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/shazebkhan13/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shazebkhan13/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/shazebkhan13/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shazebkhan13/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/shazebkhan13/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shazebkhan13/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shazebkhan13/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/shazebkhan13/LeetCode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/shazebkhan13/LeetCode/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/shazebkhan13/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shazebkhan13/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkhan13/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkhan13/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shazebkhan13/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shazebkhan13/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shazebkhan13/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shazebkhan13/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shazebkhan13/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/shazebkhan13/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shazebkhan13/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shazebkhan13/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shazebkhan13/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
@@ -582,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shazebkhan13/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/shazebkhan13/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
